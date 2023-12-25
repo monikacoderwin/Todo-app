@@ -1,0 +1,78 @@
+*{
+   
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+
+}
+/* .parent{
+    background-color: #0d6efd;
+    color: white;
+    height: 1000px;
+} */
+.inputTask{
+    height: 400 px;
+    width: 400px;
+    background-color: white;
+}
+
+
+h4{
+    margin-top: 40px;
+   display: flex;
+   justify-content: center;
+    font-weight: 700;
+}
+p{
+    text-align: center;
+}
+.input{
+    background-color:white;
+    height:600px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    margin-left: 480px;
+    color: black;
+}
+.inputs{
+    background-color: white;
+    height: 300px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    margin-left: 480px;
+    color: black;
+}
+h5{
+    display:flex;
+    justify-content: space-between;
+    background-color: #191970;
+    color:white;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.header{
+    background-Color:#191970;
+    color:white;
+    height:50px;
+    
+    align-items: center;
+    
+}
+
+.button{
+    margin-top: 10px;
+}
+h3{
+    background-color: white important; 
+    color: black;
+    font-weight: 700;
+    margin-top: 20 px;
+
+}
